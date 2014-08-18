@@ -1,0 +1,13 @@
+# Site settings
+title: 半道码农
+email: liugao15@gmail.com
+description: "种过水稻，收过油菜，拣过棉花，掰过玉米."
+baseurl: ""
+url: "http://www.semicoder.cn"
+twitter_username: semicoder
+github_username:  semicoder
+weibo_username: 半道码农
+
+# Build settings
+markdown: kramdown
+permalink: pretty

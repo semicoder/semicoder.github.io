@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "坑爹的cordova与okhttp"
+date:   2014-08-11 18:38:15
+categories: work cordova okhttp android
+---
+
+今天在配置项目时遇到个坑，cordova中包含有okhttp,所以不能再引入okhttp.
